@@ -9,4 +9,4 @@ Fixed (Search Engine Optimization) Link and made it functional.
 Here's a link to the final produc.  https://yamcham0.github.io/Homework-01/
 
 
-Here's a Screenshot of the final product.         
+Here's a Screenshot of the final product. https://github.com/YamCham0/Homework-01/issues/1#issue-999269682
